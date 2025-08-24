@@ -553,7 +553,7 @@ def bulletproof_scc_monitor():
             max_iterations = 10000
             iterations = 0
             
-            scc_addresses = {0x420, 0x421, 0x50, 0x51}
+            scc_addresses = {0x1A0}
             
             safe_log("[HYUNDAI] [MONITOR] Monitoring for stock SCC frames...")
             
